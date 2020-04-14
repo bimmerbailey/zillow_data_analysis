@@ -8,6 +8,7 @@
 3. https://fred.stlouisfed.org/ 
     * CPIAUCSL.csv - https://fred.stlouisfed.org/series/CPIAUCSL
     * A191RL1Q225SBEA.csv - https://fred.stlouisfed.org/series/A191RL1Q225SBEA
+        * Only Quarterly Data - adjust monthly?
     * UNRATE.csv - https://fred.stlouisfed.org/series/UNRATE
     * INDPRO.csv - https://fred.stlouisfed.org/series/INDPRO
     * FEDFUNDS.csv - https://fred.stlouisfed.org/series/FEDFUNDS
