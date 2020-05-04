@@ -12,5 +12,6 @@
     * UNRATE.csv - https://fred.stlouisfed.org/series/UNRATE
     * INDPRO.csv - https://fred.stlouisfed.org/series/INDPRO
     * FEDFUNDS.csv - https://fred.stlouisfed.org/series/FEDFUNDS
+    * DCOILWTICO.csv - https://fred.stlouisfed.org/series/DCOILWTICO
 4. ^DJI.csv - https://finance.yahoo.com/quote/%5EDJI/historyperiod1=828316800&period2=1580515200&interval=1mo&filter=history&frequency=1mo
 5. ^GSPC.csv - https://finance.yahoo.com/quote/%5EGSPC/historyperiod1=828316800&period2=1580515200&interval=1mo&filter=history&frequency=1mo
